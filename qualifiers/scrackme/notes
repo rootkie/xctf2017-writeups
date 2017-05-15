@@ -1,0 +1,12 @@
+
+encString = 'XXXXXXX'
+fopen('birdman.submission')
+
+
+if (strlen(encString) == 0x1f)
+
+
+input = fread()
+
+rcx = *input
+
