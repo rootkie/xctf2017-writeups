@@ -10,6 +10,7 @@ void loop() {
 
 
 CrossCTF{Bas364_1z_hard}
+CrossCTF{0n3z_N_Z3r0z}
 CrossCTF{TH1Z_i5_tH3_3asi3s7_CTF_evar}
 
 you havehe secree <3

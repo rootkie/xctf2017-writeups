@@ -14,3 +14,7 @@ while True:
 		testpass = PASS + chr(cn)
 		ser.write(testpass+'\n')
 		print testpass
+
+
+CrossCTF{Bas364_1z_hard}
+
